@@ -247,7 +247,7 @@ header nav ul li a{
 }
 
 .aboutme .wrapper img {
-    width: 30%;
+    width: 50%;
     height: auto;
 }
 
@@ -359,6 +359,13 @@ header nav ul li a{
 
     .index-boxes div h3 {
         line-height: 200px;
+    }
+
+    /* About Me */
+
+    .aboutme .wrapper img {
+        width: 30%;
+        height: auto;
     }
 
     /* Calculus */
