@@ -241,7 +241,7 @@ header nav ul li a{
 .aboutme .wrapper .naming {
     font-family: Catamaran;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 26px;
     line-height: 30px;
     margin-top: 20px;
 }
@@ -255,7 +255,7 @@ header nav ul li a{
     font-family: Catamaran;
     font-weight: 400;
     padding: 5px 0px;
-    font-size: 20px;
+    font-size: 15px;
     text-align: center;
     margin-top: 10px;
 }
@@ -366,6 +366,12 @@ header nav ul li a{
     .aboutme .wrapper img {
         width: 30%;
         height: auto;
+    }
+
+    .aboutme .wrapper .description {
+        font-size: 20px;
+        margin-left: 200px;
+        margin-right: 200px;
     }
 
     /* Calculus */
