@@ -1,1 +1,1 @@
-dErrorDocument 404 /page_not_found.html
+ErrorDocument 404 /page_not_found.html
