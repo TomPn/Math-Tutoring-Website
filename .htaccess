@@ -1,1 +1,2 @@
+AllowOverride All|None|directive-type [directive-type]
 ErrorDocument 404 /errorpage.html
