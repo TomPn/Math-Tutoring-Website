@@ -507,6 +507,100 @@ textarea.input {
     text-transform: uppercase;
 }
 
+/* Calculus Unit 1 */
+
+.calculus-unit1-links .wrapper div {
+    margin: 20px 16px 0;
+    width: calc(100% - 40px);
+    height: 100px;
+    background-color: #f1f1f1;
+}
+
+.calculus-unit1-links h2 {
+    font-family: Catamaran;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 50px;
+    margin-top: 20px;
+    color: #fff;
+    background-color: #111111;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.calculus-unit1-links .wrapper div p {
+    font-family: Catamaran;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 100px;
+    color: #111111;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/* Calculus Unit 2 */
+
+.calculus-unit2-links .wrapper div {
+    margin: 20px 16px 0;
+    width: calc(100% - 40px);
+    height: 100px;
+    background-color: #f1f1f1;
+}
+
+.calculus-unit2-links h2 {
+    font-family: Catamaran;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 50px;
+    margin-top: 20px;
+    color: #fff;
+    background-color: #111111;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.calculus-unit2-links .wrapper div p {
+    font-family: Catamaran;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 100px;
+    color: #111111;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/* Calculus Unit 3 */
+
+.calculus-unit3-links .wrapper div {
+    margin: 20px 16px 0;
+    width: calc(100% - 40px);
+    height: 100px;
+    background-color: #f1f1f1;
+}
+
+.calculus-unit3-links h2 {
+    font-family: Catamaran;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 50px;
+    margin-top: 20px;
+    color: #fff;
+    background-color: #111111;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.calculus-unit3-links .wrapper div p {
+    font-family: Catamaran;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 100px;
+    color: #111111;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
 @media only screen and (min-width: 1000px) {
     /* main page */
 
@@ -650,6 +744,111 @@ textarea.input {
         width: 480px;
         height: 350px;
         margin: 20px 10px 0px;
+        background-color: #e3e3e3;
+    }
+
+    /* Calculus Unit 1 */
+
+    .calculus-unit1-links {
+        overflow: hidden;
+        margin-bottom: 20px;
+    }
+
+    .calculus-unit1-links h2 {
+        font-family: Catamaran;
+        font-weight: 600;
+        font-size: 25px;
+        color: #fff;
+        background-color: #111111;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    .calculus-unit1-links .wrapper p {
+        padding-top: 26%;
+        font-family: Catamaran;
+        font-weight: 600;
+        font-size: 20px;
+        color: #111111;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    .calculus-unit1-links .wrapper div {
+        float: left;
+        width: 240px;
+        height: 240px;
+        margin: 20px 5px 0;
+        background-color: #e3e3e3;
+    }
+
+    /* Calculus Unit 2 */
+
+    .calculus-unit2-links {
+        overflow: hidden;
+        margin-bottom: 20px;
+    }
+
+    .calculus-unit2-links h2 {
+        font-family: Catamaran;
+        font-weight: 600;
+        font-size: 25px;
+        color: #fff;
+        background-color: #111111;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    .calculus-unit2-links .wrapper p {
+        padding-top: 26%;
+        font-family: Catamaran;
+        font-weight: 600;
+        font-size: 20px;
+        color: #111111;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    .calculus-unit2-links .wrapper div {
+        float: left;
+        width: 240px;
+        height: 240px;
+        margin: 20px 5px 0;
+        background-color: #e3e3e3;
+    }
+
+    /* Calculus Unit 3 */
+
+    .calculus-unit3-links {
+        overflow: hidden;
+        margin-bottom: 20px;
+    }
+
+    .calculus-unit3-links h2 {
+        font-family: Catamaran;
+        font-weight: 600;
+        font-size: 25px;
+        color: #fff;
+        background-color: #111111;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    .calculus-unit3-links .wrapper p {
+        padding-top: 26%;
+        font-family: Catamaran;
+        font-weight: 600;
+        font-size: 20px;
+        color: #111111;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    .calculus-unit3-links .wrapper div {
+        float: left;
+        width: 240px;
+        height: 240px;
+        margin: 20px 5px 0;
         background-color: #e3e3e3;
     }
 }
