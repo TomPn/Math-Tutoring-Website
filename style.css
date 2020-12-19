@@ -602,23 +602,26 @@ textarea.input {
 
 /* Error Page*/
 
-.errorpage h2 {
+.errorpage .container {
     font-family: Catamaran;
     font-weight: 600;
-    font-size: 60px;
     color: #111111;
     text-align: center;
     text-transform: uppercase;
     margin: 100px;
 }
 
-.errorpage p {
-    font-family: Catamaran;
-    font-weight: 600;
-    font-size: 20px;
-    color: #111111;
-    text-align: center;
-    text-transform: uppercase;
+.errorpage .container h1{
+    font-size: 100px;
+}
+
+.errorpage .container .returnpage {
+    text-decoration: none;
+    background: #2ba6b6;
+    color: #ffffff;
+    padding: 12px 24px;
+    display: inline-block;
+    margin-top: 30px;
 }
 
 @media only screen and (min-width: 1000px) {
@@ -874,23 +877,34 @@ textarea.input {
 
     /* Error Page*/
 
-    .errorpage h2 {
+    .errorpage .container {
         font-family: Catamaran;
         font-weight: 600;
-        font-size: 60px;
         color: #111111;
         text-align: center;
         text-transform: uppercase;
         margin: 100px;
     }
 
-    .errorpage p {
-        font-family: Catamaran;
-        font-weight: 600;
-        font-size: 20px;
-        color: #111111;
-        text-align: center;
-        text-transform: uppercase;
+    .errorpage .container h1{
+        font-size: 200px;
+    }
+
+    .errorpage .container h2{
+        font-size: 80px;
+    }
+
+    .errorpage .container p{
+        font-size: 40px;
+    }
+
+    .errorpage .container .returnpage {
+        text-decoration: none;
+        background: #2ba6b6;
+        color: #ffffff;
+        padding: 12px 24px;
+        display: inline-block;
+        margin-top: 30px;
     }
 }
 

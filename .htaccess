@@ -1,2 +1,1 @@
-AllowOverride All|None|directive-type [directive-type]
-ErrorDocument 404 /errorpage.html
+dErrorDocument 404 /page_not_found.html
