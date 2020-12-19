@@ -600,6 +600,26 @@ textarea.input {
     text-transform: uppercase;
 }
 
+/* Error Page*/
+
+.errorpage h2 {
+    font-family: Catamaran;
+    font-weight: 600;
+    font-size: 60px;
+    color: #111111;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 100px;
+}
+
+.errorpage p {
+    font-family: Catamaran;
+    font-weight: 600;
+    font-size: 20px;
+    color: #111111;
+    text-align: center;
+    text-transform: uppercase;
+}
 
 @media only screen and (min-width: 1000px) {
     /* main page */
@@ -850,6 +870,27 @@ textarea.input {
         height: 240px;
         margin: 20px 5px 0;
         background-color: #e3e3e3;
+    }
+
+    /* Error Page*/
+
+    .errorpage h2 {
+        font-family: Catamaran;
+        font-weight: 600;
+        font-size: 60px;
+        color: #111111;
+        text-align: center;
+        text-transform: uppercase;
+        margin: 100px;
+    }
+
+    .errorpage p {
+        font-family: Catamaran;
+        font-weight: 600;
+        font-size: 20px;
+        color: #111111;
+        text-align: center;
+        text-transform: uppercase;
     }
 }
 
