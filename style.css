@@ -626,7 +626,7 @@ textarea.input {
 }
 
 @media only screen and (min-width: 1000px) {
-    
+
     /* main page */
 
     .wrapper {
@@ -673,6 +673,14 @@ textarea.input {
         margin-bottom: 20px;
     }
 
+    .alltopics-links .wrapper div {
+        float: left;
+        width: 480px;
+        height: 350px;
+        margin: 20px 10px 0px;
+        background-color: #e3e3e3;
+    }
+
     .alltopics-links h2 {
         font-family: Catamaran;
         font-weight: 600;
@@ -691,14 +699,6 @@ textarea.input {
         color: #111111;
         text-align: center;
         text-transform: uppercase;
-    }
-
-    .alltopics-links .wrapper div {
-        float: left;
-        width: 480px;
-        height: 350px;
-        margin: 20px 10px 0px;
-        background-color: #e3e3e3;
     }
 
     /* Calculus */
